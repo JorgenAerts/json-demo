@@ -1,0 +1,54 @@
+{
+    "brands": [
+        {
+            "id": 1,
+            "name": "Unicorn",
+            "steeltip": true,
+            "softtip": false
+        },
+        {
+            "id": 2,
+            "name": "Harrows",
+            "steeltip": true,
+            "softtip": false
+        },
+        {
+            "id": 3,
+            "name": "Target",
+            "steeltip": true,
+            "softtip": false
+        }
+    ],
+    "darts": [
+        {
+            "id": 1,
+            "brand": 1,
+            "name": "John Lowe",
+            "weight": [
+                "23 grams",
+                "24 grams",
+                "25 grams"
+            ]
+        },
+        {
+            "id": 2,
+            "brand": 2,
+            "name": "Supergrip",
+            "weight": [
+                "21 grams",
+                "23 grams",
+                "25 grams"
+            ]
+        },
+        {
+            "id": 3,
+            "brand": 3,
+            "name": "Luke Littler",
+            "weight": [
+                "21 grams",
+                "23 grams",
+                "25 grams"
+            ]
+        }
+    ]
+}
